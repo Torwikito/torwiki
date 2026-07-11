@@ -7,7 +7,6 @@
         <p>
             The Tor network remains one of the most effective tools for protecting digital privacy, enabling users to browse the internet without revealing their identity or location. However, for newcomers, the ecosystem presents a unique challenge: traditional search engines like Bing or Google cannot index the network's <strong>.onion</strong> sites. This is where specialized directories come into play, and among them, <strong>TorWiki.to</strong> has gained recognition as a functional starting point for discovering content within the encrypted space.
         </p>
-
         <h2>What Makes TorWiki Different?</h2>
         <p>
             Unlike the broader "Hidden Wiki" projects that often suffer from broken links or outdated entries, this directory focuses on maintaining a cleaner, more organized structure. It categorizes services into clear sections — from forums and communication tools to information repositories and privacy-focused search engines. The platform does not host illegal content itself; rather, it functions as a <strong>reference list</strong>, helping users locate legitimate services without the need to memorize complex, randomized addresses.
